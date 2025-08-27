@@ -1,0 +1,10 @@
+# Normalizar fin de línea: siempre usar LF en el repo
+* text=auto eol=lf
+
+# Asegurar que JSON y TS/JS usen LF
+*.json text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
